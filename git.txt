@@ -1,0 +1,10 @@
+git branch branch_name    (or) ===>  git checkout -b branch_name
+git checkout branch_name
+
+
+git merge vs git rebase
+
+-- when git merge is used, the repo gets merged with a new commit
+-- when git rebase is used, the repo gets merged into the old commit
+
+git branch --delete branch_name (to delete branch)
